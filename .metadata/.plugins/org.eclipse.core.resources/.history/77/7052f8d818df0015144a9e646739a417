@@ -1,0 +1,7 @@
+import org.lwjgl.LWJGLException;
+import org.lwjgl.opengl.Display;
+
+public class Main {
+
+
+}
